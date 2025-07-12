@@ -7,3 +7,6 @@ This was a project written for one of the Java university courses. It can genera
 <br>
 
 <div align="center"> <video src=".github/resources/optimization_demo.mp4" alt="Optimization animation example" width="500"/> </div>
+
+https://github.com/user-attachments/assets/6b0f49b8-a3cd-45b5-9bb9-9799969f0484
+
